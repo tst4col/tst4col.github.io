@@ -10,7 +10,7 @@ website:
 
 format:
   html:
-    theme: solar
+    theme: vapor
     css: styles.css
 
 editor: visual
